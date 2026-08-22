@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Robert. I'm a Software Engineer at [itestra GmbH](https://www.itestra.de), where I work on large-scale retail software — reverse-engineering legacy AS/400 systems and rebuilding them in modern Java and TypeScript.
+My name is Robert. I'm a Senior Engineer at [itestra GmbH](https://www.itestra.de), where I work on large-scale retail software — reverse-engineering legacy AS/400 systems and rebuilding them in modern Java and TypeScript.
 
 I completed my M.Sc. in Computer Science at RWTH Aachen University in 2024, after my B.Sc. at Hochschule Niederrhein.
 
